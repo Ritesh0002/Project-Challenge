@@ -1,0 +1,21 @@
+ /* Theme  Name : Header 
+ Author Name: Ritesh
+ Description: this is for bootstrap header
+ version:1.0
+  */
+
+
+  .custom-logo{
+    height: 60px;
+    width: 60px;
+}
+
+/* Ensure all menu links are styled correctly */
+.navbar-nav a {
+    color: #ffffff; /* Set a default link color */
+    padding: 10px 15px;
+}
+
+.navbar-nav a:hover {
+    color: #007bff; /* Hover color */
+}
